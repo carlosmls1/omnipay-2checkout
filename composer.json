@@ -5,7 +5,7 @@
         "omnipay",
         "2checkout"
     ],
-    "homepage": "https://github.com/collizo4sky/omnipay-2checkout",
+    "homepage": "https://github.com/carlosmls1/omnipay-2checkout",
     "license": "MIT",
     "authors": [
         {
@@ -15,8 +15,8 @@
         }
     ],
     "require": {
-        "omnipay/common": "~2.0"
-    },
+	  "omnipay/omnipay": "^3.2"
+	},
     "require-dev": {
         "omnipay/tests": "~2.0",
         "satooshi/php-coveralls": "^0.7.1"
