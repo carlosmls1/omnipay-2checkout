@@ -19,7 +19,7 @@ processing library for PHP 5.3+. This package implements 2checkout support for O
 Via Composer
 
 ``` bash
-$ composer require collizo4sky/omnipay-2checkout
+$ composer require carlosmls1/omnipay-2checkout
 ```
 
 ## Usage
