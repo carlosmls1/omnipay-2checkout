@@ -1,5 +1,5 @@
 {
-    "name": "collizo4sky/omnipay-2checkout",
+    "name": "carlosmls1/omnipay-2checkout",
     "description": "2Checkout driver for the Omnipay payment processing library",
     "keywords": [
         "omnipay",
@@ -8,11 +8,16 @@
     "homepage": "https://github.com/carlosmls1/omnipay-2checkout",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Agbonghama Collins",
-            "email": "me@w3guy.com",
-            "homepage": "http://w3guy.com"
-        }
+	  {
+		"name": "Agbonghama Collins",
+		"email": "me@w3guy.com",
+		"homepage": "http://w3guy.com"
+	  },
+	  {
+		"name": "Carlos Morales",
+		"email": "carlosmls.cr@gmail.com",
+		"homepage": "https://carlosmls.com"
+	  }
     ],
     "require": {
 	  "omnipay/omnipay": "^3.2"
